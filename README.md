@@ -22,6 +22,9 @@ Save the data to the file
 # CODE
 ## Data.csv :
 ```
+name: souvik kundu
+register no:212221230105
+
 import pandas as pd
 df=pd.read_csv("data.csv")
 df
